@@ -1,6 +1,3 @@
-Sure, here's the updated README file without the License and Contact sections.
-
----
 
 # General-Purpose
 
